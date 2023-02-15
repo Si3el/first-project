@@ -1,0 +1,9 @@
+.header__link {
+    opacity: 1;
+    transition: transform 0.4 ease;
+  }
+  
+  .header__link:hover {
+    opacity: 0.6;
+    font-size: 20px;
+  }
